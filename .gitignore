@@ -1,3 +1,7 @@
 .env
 .venv
-data/
+data/raw/stations_raw.csv
+data/raw/units_raw.csv
+data/clean/stations.csv
+data/clean/charging_units.csv
+scripts/data_masking.py

@@ -1,0 +1,9 @@
+model,year_start,year_end,native_dc_port,adapter_notes,source_url
+Ioniq 5,2022,2024,CCS1,"CCS-to-NACS adapter offered free to owners who purchased/leased on or before 2025-01-31; conditional on MyHyundai account + 60-day redemption",https://www.hyundainews.com/view/releases/4339
+Ioniq 5,2025,2026,NACS,"Ships with NACS-to-CCS adapter, NACS-to-J1772 adapter",https://www.youtube.com/watch?v=vfTdDYRE_g0
+Ioniq 5 N,2025,2025,CCS1,"Appears on free-adapter eligibility list for MY2025 — implies N trim lagged the base car's NACS switch. trim-level split within same model year",https://www.hyundainews.com/view/releases/4339
+Ioniq 5 N,2026,2026,NACS,"Ships with NACS-to-CCS adapter, NACS-to-J1772 adapter",https://www.youtube.com/watch?v=vfTdDYRE_g0
+Ioniq 6,2022,2025,CCS1,"MY2025 on free-adapter eligibility list",https://www.hyundainews.com/view/releases/4339
+Ioniq 6,2026,,NACS,"NACS-to-CCS, NACS-to-J1772",https://www.youtube.com/watch?v=E49nVeHNTYg
+Ioniq 9,2026,,NACS,"First model year; native NACS from launch. Ships with NACS-to-CCS adapter, NACS-to-J1772 adapter",https://www.youtube.com/watch?v=vfTdDYRE_g0 
+Kona Electric,2019,2025,CCS1,"MY2025 on free-adapter eligibility list",https://www.hyundainews.com/view/releases/4339

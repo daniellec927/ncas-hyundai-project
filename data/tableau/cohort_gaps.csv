@@ -1,0 +1,41 @@
+MODEL,YEAR_START,YEAR_END,NATIVE_DC_PORT,SCENARIO,PREVIOUS_STATION,STATION_NAME,LATITUDE,LONGITUDE,MILES_FROM_PREVIOUS
+Ioniq 5,2022,2024,J1772COMBO,native only,,LA County ISD Walt Disney Parking Garage P3,34.055505000000000,-118.24885200000000,
+Ioniq 5,2022,2024,J1772COMBO,native only,BAKER TRAVEL PLAZA,"Target T1524 (Spring Valley, NV)",36.114810000000000,-115.31058000000000,71.479203893
+Ioniq 5,2022,2024,J1772COMBO,native only,"Westfield Century City (Los Angeles, CA)","Target 1033 (Baldwin Park, CA)",34.070710000000000,-117.97825000000000,25.301501159
+Ioniq 5,2022,2024,J1772COMBO,native only,GF4EVA VVILLE M6 DC2,DC OB DC 3,34.846389000000000,-117.08386400000000,23.215651267
+Ioniq 5,2022,2024,J1772COMBO,native only,DC CORRIDOR EDDIES Y DC2,Caltrans - Clyde V. Kane Rest Area - Southbound,35.034153000000000,-116.47144700000000,22.422680046
+Ioniq 5,2022,2024,J1772COMBO,native only,Team Ford,Ford Country,36.048478000000000,-115.02823000000000,19.043287011
+Ioniq 5,2022,2024,J1772COMBO,native only,US Bank San Gabriel,Veteran's Memorial Park,34.012781000000000,-118.40304000000000,19.019532902
+Ioniq 5,2022,2024,J1772COMBO,native only,Overland Structure 1st Floor,US Bank San Gabriel,34.103709800000000,-118.08949900000000,18.976889948
+Ioniq 5,2022,2024,J1772COMBO,native only,GM Oil Site 76 Chevron San Bernardino,"Walmart 4340 (Hesperia, CA)",34.424540000000000,-117.37148000000000,18.031689262
+Ioniq 5,2022,2024,J1772COMBO,native only,City of Pasadena - Robinson Park,Overland Structure 1st Floor,34.015755000000000,-118.40349300000000,17.697852682
+Ioniq 5,2022,2024,J1772COMBO,with adapter,,LA County ISD Walt Disney Parking Garage P3,34.055505000000000,-118.24885200000000,
+Ioniq 5,2022,2024,J1772COMBO,with adapter,BAKER TRAVEL PLAZA,"Las Vegas, NV - South Fort Apache Road - Tesla Supercharger",36.093958000000000,-115.29710800000000,70.77311057
+Ioniq 5,2022,2024,J1772COMBO,with adapter,"Westfield Century City (Los Angeles, CA)","Baldwin Park, CA - Tesla Supercharger",34.079207000000000,-117.98884000000000,24.722318798
+Ioniq 5,2022,2024,J1772COMBO,with adapter,GF4EVA VVILLE M6 DC2,"Barstow, CA - Tanger Way - Tesla Supercharger",34.844499000000000,-117.08577100000000,23.048303416
+Ioniq 5,2022,2024,J1772COMBO,with adapter,DC CORRIDOR EDDIES Y DC2,Caltrans - Clyde V. Kane Rest Area - Southbound,35.034153000000000,-116.47144700000000,22.422680046
+Ioniq 5,2022,2024,J1772COMBO,with adapter,Team Ford,Ford Country,36.048478000000000,-115.02823000000000,19.043287011
+Ioniq 5,2022,2024,J1772COMBO,with adapter,US Bank San Gabriel,Veteran's Memorial Park,34.012781000000000,-118.40304000000000,19.019532902
+Ioniq 5,2022,2024,J1772COMBO,with adapter,Overland Structure 1st Floor,US Bank San Gabriel,34.103709800000000,-118.08949900000000,18.976889948
+Ioniq 5,2022,2024,J1772COMBO,with adapter,GM Oil Site 76 Chevron San Bernardino,"Hesperia, CA - Tesla Supercharger",34.424701000000000,-117.38573800000000,18.161566743
+Ioniq 5,2022,2024,J1772COMBO,with adapter,City of Pasadena - Robinson Park,Overland Structure 1st Floor,34.015755000000000,-118.40349300000000,17.697852682
+Ioniq 5,2025,2026,TESLA,native only,,"Los Angeles, CA - Industrial Street - Tesla Supercharger",34.035783000000000,-118.23835900000000,
+Ioniq 5,2025,2026,TESLA,native only,"Baker, CA - Mojave Pointe Rd - Tesla Supercharger","Las Vegas, NV - South Fort Apache Road - Tesla Supercharger",36.093958000000000,-115.29710800000000,71.530312919
+Ioniq 5,2025,2026,TESLA,native only,"Barstow, CA - 1503 East Main Street - Tesla Supercharger","Baker, CA - Mojave Pointe Rd - Tesla Supercharger",35.268984000000000,-116.06668900000000,58.935404409
+Ioniq 5,2025,2026,TESLA,native only,"Victorville, CA - Amargosa Road - Tesla Supercharger","Barstow, CA - Tanger Way - Tesla Supercharger",34.844499000000000,-117.08577100000000,30.462555691
+Ioniq 5,2025,2026,TESLA,native only,"Inglewood, CA - West Imperial Highway - Tesla Supercharger","Baldwin Park, CA - Tesla Supercharger",34.079207000000000,-117.98884000000000,21.957514427
+Ioniq 5,2025,2026,TESLA,native only,"Los Angeles, CA - Venice Boulevard - Tesla Supercharger",California Institute of Technology - California Parking Structure,34.134066000000000,-118.12636300000000,16.990698216
+Ioniq 5,2025,2026,TESLA,native only,"San Bernardino, CA - W Little League Dr - Tesla Supercharger","Hesperia, CA - Tesla Supercharger",34.424701000000000,-117.38573800000000,16.108153762
+Ioniq 5,2025,2026,TESLA,native only,"Pasadena, CA - E Glenarm St - Tesla Supercharger",WLCAC,33.936653700000000,-118.25362400000000,14.496025119
+Ioniq 5,2025,2026,TESLA,native only,"South Gate, CA - Tesla Supercharger","Los Angeles, CA - Venice Boulevard - Tesla Supercharger",34.027975000000000,-118.39414400000000,14.265539325
+Ioniq 5,2025,2026,TESLA,native only,"Montebello, CA - N Wilcox Ave - Tesla Supercharger",City of Los Angeles Lot 619,34.097765000000000,-118.35316900000000,13.803088709
+Ioniq 5,2025,2026,TESLA,with adapter,,LA County ISD Walt Disney Parking Garage P3,34.055505000000000,-118.24885200000000,
+Ioniq 5,2025,2026,TESLA,with adapter,BAKER TRAVEL PLAZA,"Las Vegas, NV - South Fort Apache Road - Tesla Supercharger",36.093958000000000,-115.29710800000000,70.77311057
+Ioniq 5,2025,2026,TESLA,with adapter,"Westfield Century City (Los Angeles, CA)","Baldwin Park, CA - Tesla Supercharger",34.079207000000000,-117.98884000000000,24.722318798
+Ioniq 5,2025,2026,TESLA,with adapter,GF4EVA VVILLE M6 DC2,"Barstow, CA - Tanger Way - Tesla Supercharger",34.844499000000000,-117.08577100000000,23.048303416
+Ioniq 5,2025,2026,TESLA,with adapter,DC CORRIDOR EDDIES Y DC2,Caltrans - Clyde V. Kane Rest Area - Southbound,35.034153000000000,-116.47144700000000,22.422680046
+Ioniq 5,2025,2026,TESLA,with adapter,Team Ford,Ford Country,36.048478000000000,-115.02823000000000,19.043287011
+Ioniq 5,2025,2026,TESLA,with adapter,US Bank San Gabriel,Veteran's Memorial Park,34.012781000000000,-118.40304000000000,19.019532902
+Ioniq 5,2025,2026,TESLA,with adapter,Overland Structure 1st Floor,US Bank San Gabriel,34.103709800000000,-118.08949900000000,18.976889948
+Ioniq 5,2025,2026,TESLA,with adapter,GM Oil Site 76 Chevron San Bernardino,"Hesperia, CA - Tesla Supercharger",34.424701000000000,-117.38573800000000,18.161566743
+Ioniq 5,2025,2026,TESLA,with adapter,City of Pasadena - Robinson Park,Overland Structure 1st Floor,34.015755000000000,-118.40349300000000,17.697852682
