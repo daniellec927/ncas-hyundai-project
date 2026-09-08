@@ -203,6 +203,7 @@ Export result tables to `data/tableau/` and open in Tableau Public.
 │   └── tableau/     # exported result tables
 ├── scripts/
 │   ├── pull.py
+│   ├── clean.ipynb
 │   └── clean.py
 ├── sql/
 │   ├── 01_profiling.sql
