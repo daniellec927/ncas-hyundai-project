@@ -4,23 +4,23 @@ import os
 
 load_dotenv()
 
-NRL_API_KEY = os.getenv("NRL_API_KEY")
+NLR_API_KEY = os.getenv("NLR_API_KEY")
 
-if NRL_API_KEY is None:
-    raise ValueError("NRL_API_KEY not found.")
+if NLR_API_KEY is None:
+    raise ValueError("NLR_API_KEY not found.")
 
 url_stations = "https://developer.nlr.gov/api/alt-fuel-stations/v1.csv"
 url_units = "https://developer.nlr.gov/api/alt-fuel-stations/v1/ev-charging-units.csv"
 
 
 params_stations = {
-    "api_key": NRL_API_KEY,
+    "api_key": NLR_API_KEY,
     "limit": "all",
     "state": "CA,NV",
     "fuel_type": "ELEC"
 }
 params_units = {
-    "api_key": NRL_API_KEY,
+    "api_key": NLR_API_KEY,
     "limit": "all",
     "state": "CA,NV"
 }

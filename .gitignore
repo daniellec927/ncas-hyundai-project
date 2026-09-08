@@ -5,3 +5,4 @@ data/raw/units_raw.csv
 data/clean/stations.csv
 data/clean/charging_units.csv
 scripts/data_masking.py
+clean.ipynb
